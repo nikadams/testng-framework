@@ -1,0 +1,1 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="TrialTest">	<test name="ConfigurationTest">		<classes>			<class name="test.testng.AssertionsTest">				<methods>					<include name="testAssertSame" />				</methods>			</class>		</classes>	</test></suite>

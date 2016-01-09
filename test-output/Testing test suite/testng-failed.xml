@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Testing test suite]">
+  <test name="Test on Firefox">
+    <classes>
+      <class name="com.sqa.na.testng.AnnotationTest"/>
+      <class name="com.sqa.na.testng.AssertTest"/>
+    </classes>
+  </test> <!-- Test on Firefox -->
+</suite> <!-- Failed suite [Testing test suite] -->
